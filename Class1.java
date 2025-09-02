@@ -14,6 +14,7 @@ public class Class1 {
     }
 
     private void f3(){
-        //v3.0
+        //v3.1 post-hotfix.
+        //Was in the notes so I didn't even notice f4 disappear as I switched.
     }
 }
