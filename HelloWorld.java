@@ -15,4 +15,8 @@ public class HelloWorld {
         // v1.0
     }
 
+    private void f2() {
+        //v2.0
+        //I don't remember what we commented here and I procrastinated too long to check.
+    }
 }
